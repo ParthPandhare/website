@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Hi, I'm Parth!","text":"<p>I'm a computer engineering student at UCLA with an interest in embedded systems, parallel computing, and FPGA design!</p>"}]}
