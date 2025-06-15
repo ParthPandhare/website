@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Hi, I'm Parth!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+I'm a computer engineering student at UCLA with an interest in embedded systems, parallel computing, and FPGA design!
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<!-- # Code block example
 
-## Project layout
+A test:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+```c++ title="test.cpp" linenums="1" hl_lines="2-4"
+int x = 5;
+for (int i = 0; i < 10; ++i) {
+    x++;
+}
+``` -->
